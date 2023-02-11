@@ -28,17 +28,17 @@ The aim of this project is to build a simple EEG implementation that can be the 
 2. Advancing practical knowledge of active filter design.
 3. Gaining experience in digital signal processing and working with discretes samples of real-time, physical data.
 4. Working with serial communciation protocols to transfer data from a microcontroller.
-5. Developing knowledge of GUIs/display software.
+5. Developing knowledge and skills developing GUIs/displays.
 6. Further advanced soldering and PCB design skills, in particular exploring the use of small SMD components and producing a compact PCB.
 
 ## Tasks
-Milestone 1: Protoboard prototype
+### Milestone 1: Protoboard prototype
 - [ ] Research options for electrodes and select optimal choice
 - [ ] Iteratively design, build, and test simple amplifying & filtering circuit on a protoboard
 - [ ] Achieve data transfer between Arduino and laptop
 - [ ] Plot data from Arduino input on laptop software
 - [ ] Finish basic solder training, start advanced solder training
-Milestone 2: PCB prototype
+### Milestone 2: PCB prototype
 - [ ] Make necessary improvements to protoboard prototype circuit
 - [ ] Explore and implement other display options than laptop display for portability
 - [ ] Test everything fully before moving onto the PCB!
