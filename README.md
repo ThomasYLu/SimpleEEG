@@ -47,9 +47,6 @@ The aim of this project is to build a simple EEG implementation that can be the 
 - [ ] Test test test
 
 ## Timeline
-- Milestone 1: End of March, 2023
-- Milestone 2: Early May, 2023
-
 
 ---
 
